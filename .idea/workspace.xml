@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d22863d9-95cb-4a7d-82bb-f2b4d4f51c75" name="Changes" comment="Projects from the Penis package">
+      <change afterPath="$PROJECT_DIR$/src/Penis/TestAreas/MainFingerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Penis/TestAreas/MainFingerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Penis/TestAreas/PublicFingerMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Penis/TestAreas/PublicFingerMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/Penis/TestAreas/TESTJANKCODEHERE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/Penis/TestAreas/TESTJANKCODEHERE.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jonah &lt;krompartj@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Penis/HW/LoanPayment.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Penis/HW/SimpleComputation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Penis/TestAreas/TESTJANKCODEHERE.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ERRg1jZHfR8QUQJeSrcgwFBzMY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jonah/Desktop/Not Gaming/NKU Stuff/Semesters/FALL 2022/OOP1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
+  }
+}</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="NKU-Courses" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="NKU-Courses" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="false" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d22863d9-95cb-4a7d-82bb-f2b4d4f51c75" name="Changes" comment="" />
+      <created>1662556521205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662556521205</updated>
+      <workItem from="1662556527190" duration="1986000" />
+      <workItem from="1662729184923" duration="56000" />
+      <workItem from="1662729261668" duration="932000" />
+      <workItem from="1662988066105" duration="2378000" />
+      <workItem from="1662995051173" duration="1817000" />
+      <workItem from="1663335013589" duration="491000" />
+      <workItem from="1663336957692" duration="5409000" />
+      <workItem from="1663611863393" duration="3234000" />
+      <workItem from="1663938506274" duration="662000" />
+      <workItem from="1663940228696" duration="97000" />
+      <workItem from="1663940345449" duration="3418000" />
+      <workItem from="1664371425004" duration="1737000" />
+      <workItem from="1664373643324" duration="55000" />
+      <workItem from="1664545101144" duration="4109000" />
+      <workItem from="1664843080323" duration="1948000" />
+      <workItem from="1665017806460" duration="133000" />
+      <workItem from="1665151693485" duration="83000" />
+      <workItem from="1665151850874" duration="1197000" />
+      <workItem from="1665161544651" duration="1898000" />
+      <workItem from="1665250592080" duration="8454000" />
+      <workItem from="1665407784224" duration="7783000" />
+      <workItem from="1665435736166" duration="6279000" />
+      <workItem from="1665945046154" duration="2635000" />
+      <workItem from="1665981301819" duration="25000" />
+      <workItem from="1666021903750" duration="26000" />
+      <workItem from="1666021979908" duration="122000" />
+      <workItem from="1666022659311" duration="10186000" />
+      <workItem from="1666049455535" duration="9000" />
+      <workItem from="1666057826661" duration="459000" />
+      <workItem from="1666058305796" duration="3000" />
+      <workItem from="1666058311859" duration="2000" />
+      <workItem from="1666058335356" duration="2193000" />
+      <workItem from="1666064928225" duration="754000" />
+      <workItem from="1666072987123" duration="124000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project file commit">
+      <created>1666023255700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666023255700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project file commit">
+      <created>1666057838420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666057838420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project file commit, fixed unversioned files">
+      <created>1666058194157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666058194157</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Projects from the Penis package">
+      <created>1666059415880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666059415880</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c0188a6b-ad97-4a52-b882-efaf9a78778d">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/jonah/IdeaProjects/NKU-Courses/src/Penis/HW" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c0188a6b-ad97-4a52-b882-efaf9a78778d" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Default" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Project file commit" />
+    <MESSAGE value="Project file commit, fixed unversioned files" />
+    <MESSAGE value="Projects from the Penis package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects from the Penis package" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.IllegalFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
